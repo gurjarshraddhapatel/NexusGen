@@ -85,7 +85,7 @@ const Plans = () => {
             </button>
           </div>
 
-          {/* Premium Plan */}
+          {/* Premium Plan  */}
           <div className="border rounded-2xl shadow-md p-6 md:p-10 text-left relative flex flex-col justify-between">
             <div>
               <div className="absolute top-4 right-4 px-3 py-1 text-sm bg-gray-900 text-white rounded-full">Active</div>
