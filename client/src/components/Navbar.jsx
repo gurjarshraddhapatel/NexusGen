@@ -33,7 +33,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useUser, useClerk, UserButton } from "@clerk/clerk-react";
 import { Menu, X, Zap } from "lucide-react";
-import { assets } from "../assets/assets";
+// import { assets } from "../assets/assets";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
